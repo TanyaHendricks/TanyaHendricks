@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TanyaHendricks&theme=omni&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TanyaHendricks&theme=omni&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/all-langs/?username=TanyaHendricks&theme=omni&hide_border=true&include_all_commits=true&count_private=hide&layout=compact)  <br> <br> <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaHendricks&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  <br> <br> <br>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  <br> <br> <br>
